@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "hotp-totp-generator": "^1.1.3"
+  }
+}
