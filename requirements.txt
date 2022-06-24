@@ -13,3 +13,5 @@ pytz==2020.5
 six==1.15.0
 toml==0.10.2
 Werkzeug==1.0.1
+numpy
+lightgbm
