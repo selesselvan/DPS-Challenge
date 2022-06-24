@@ -1,0 +1,6 @@
+curl -H 'Content-Type: application/json' -H 'Authorization: Basic 1525168100' -X POST -d '{
+    "github": "https://github.com/selesselvan/DPS-Challenge",
+    "email": "selesselvan@gmail.com",
+    "url": "https://seles-selvan-dps.herokuapp.com//prediction",
+    "notes": "I used lightgbm and RESTful flask API and deployed it to heroku"
+}' https://dps-challenge.netlify.app/.netlify/functions/api/challenge
